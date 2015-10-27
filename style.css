@@ -17,6 +17,9 @@ header nav {
   width:100%;
   border-bottom: 2em solid #669;
 }
+li {
+  display:inline;
+}
 header nav img {
   height:3em;
   width:3em;

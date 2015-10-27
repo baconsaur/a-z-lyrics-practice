@@ -1,5 +1,26 @@
+* {
+  margin:0;
+  border:0;
+  padding:0;
+}
 .main-page {
   color:#ccccdd;
   padding: 7.5px;
   padding-bottom: 7.5px;
+}
+header {
+
+}
+header nav {
+  background-color:#99c;
+  height:5%;
+  width:100%;
+  border-bottom: 2em solid #669;
+}
+header nav img {
+  height:3em;
+  width:3em;
+}
+footer {
+
 }
